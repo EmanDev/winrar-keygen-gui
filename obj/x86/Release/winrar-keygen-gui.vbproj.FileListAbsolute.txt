@@ -1,0 +1,9 @@
+C:\Users\gamea\documents\visual studio 2010\Projects\winrar-keygen-gui\winrar-keygen-gui\bin\Release\winrar-keygen-gui.exe
+C:\Users\gamea\documents\visual studio 2010\Projects\winrar-keygen-gui\winrar-keygen-gui\bin\Release\winrar-keygen-gui.pdb
+C:\Users\gamea\documents\visual studio 2010\Projects\winrar-keygen-gui\winrar-keygen-gui\bin\Release\winrar-keygen-gui.xml
+C:\Users\gamea\documents\visual studio 2010\Projects\winrar-keygen-gui\winrar-keygen-gui\obj\x86\Release\winrar_keygen_gui.Form1.resources
+C:\Users\gamea\documents\visual studio 2010\Projects\winrar-keygen-gui\winrar-keygen-gui\obj\x86\Release\winrar_keygen_gui.Resources.resources
+C:\Users\gamea\documents\visual studio 2010\Projects\winrar-keygen-gui\winrar-keygen-gui\obj\x86\Release\winrar-keygen-gui.vbproj.GenerateResource.Cache
+C:\Users\gamea\documents\visual studio 2010\Projects\winrar-keygen-gui\winrar-keygen-gui\obj\x86\Release\winrar-keygen-gui.exe
+C:\Users\gamea\documents\visual studio 2010\Projects\winrar-keygen-gui\winrar-keygen-gui\obj\x86\Release\winrar-keygen-gui.xml
+C:\Users\gamea\documents\visual studio 2010\Projects\winrar-keygen-gui\winrar-keygen-gui\obj\x86\Release\winrar-keygen-gui.pdb

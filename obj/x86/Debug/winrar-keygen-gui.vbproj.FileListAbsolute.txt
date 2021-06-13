@@ -1,0 +1,18 @@
+C:\Users\gamea\AppData\Local\Temporary Projects\winrar-keygen-gui\bin\Debug\winrar-keygen-gui.exe
+C:\Users\gamea\AppData\Local\Temporary Projects\winrar-keygen-gui\bin\Debug\winrar-keygen-gui.pdb
+C:\Users\gamea\AppData\Local\Temporary Projects\winrar-keygen-gui\bin\Debug\winrar-keygen-gui.xml
+C:\Users\gamea\AppData\Local\Temporary Projects\winrar-keygen-gui\obj\x86\Debug\winrar_keygen_gui.Form1.resources
+C:\Users\gamea\AppData\Local\Temporary Projects\winrar-keygen-gui\obj\x86\Debug\winrar_keygen_gui.Resources.resources
+C:\Users\gamea\AppData\Local\Temporary Projects\winrar-keygen-gui\obj\x86\Debug\winrar-keygen-gui.vbproj.GenerateResource.Cache
+C:\Users\gamea\AppData\Local\Temporary Projects\winrar-keygen-gui\obj\x86\Debug\winrar-keygen-gui.exe
+C:\Users\gamea\AppData\Local\Temporary Projects\winrar-keygen-gui\obj\x86\Debug\winrar-keygen-gui.xml
+C:\Users\gamea\AppData\Local\Temporary Projects\winrar-keygen-gui\obj\x86\Debug\winrar-keygen-gui.pdb
+C:\Users\gamea\documents\visual studio 2010\Projects\winrar-keygen-gui\winrar-keygen-gui\obj\x86\Debug\winrar-keygen-gui.exe
+C:\Users\gamea\documents\visual studio 2010\Projects\winrar-keygen-gui\winrar-keygen-gui\obj\x86\Debug\winrar-keygen-gui.xml
+C:\Users\gamea\documents\visual studio 2010\Projects\winrar-keygen-gui\winrar-keygen-gui\obj\x86\Debug\winrar-keygen-gui.pdb
+C:\Users\gamea\documents\visual studio 2010\Projects\winrar-keygen-gui\winrar-keygen-gui\bin\Debug\winrar-keygen-gui.exe
+C:\Users\gamea\documents\visual studio 2010\Projects\winrar-keygen-gui\winrar-keygen-gui\bin\Debug\winrar-keygen-gui.pdb
+C:\Users\gamea\documents\visual studio 2010\Projects\winrar-keygen-gui\winrar-keygen-gui\bin\Debug\winrar-keygen-gui.xml
+C:\Users\gamea\documents\visual studio 2010\Projects\winrar-keygen-gui\winrar-keygen-gui\obj\x86\Debug\winrar_keygen_gui.Form1.resources
+C:\Users\gamea\documents\visual studio 2010\Projects\winrar-keygen-gui\winrar-keygen-gui\obj\x86\Debug\winrar_keygen_gui.Resources.resources
+C:\Users\gamea\documents\visual studio 2010\Projects\winrar-keygen-gui\winrar-keygen-gui\obj\x86\Debug\winrar-keygen-gui.vbproj.GenerateResource.Cache
