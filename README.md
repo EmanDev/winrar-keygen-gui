@@ -18,7 +18,7 @@ A custom graphical user interface (GUI) for [winrar-keygen](https://github.com/b
 1. Run the application.
 2. Enter your name.
 3. Choose license type.
-4. Save as "rarreg.key" (Importnant).
+4. Save as "rarreg.key" (Important).
 
 ## Credits
 
