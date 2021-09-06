@@ -9,16 +9,20 @@ A custom graphical user interface (GUI) for [winrar-keygen](https://github.com/b
 
 ## Build
 
-1. Make sure you have the requirement.
+1. Make sure you have the requirements on your operating system.
 2. Open the project file.
 3. Either debug or release, or go to Projects > Build
 
 ## Usage
 
 1. Run the application.
-2. Enter your name.
+2. Enter your name or email address.
 3. Choose license type.
 4. Save as "rarreg.key" (Important).
+
+## Data Collection
+
+Just nope :) Check the code if the tool collects any information.
 
 ## Credits
 
